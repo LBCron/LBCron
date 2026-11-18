@@ -1,7 +1,7 @@
 # Ronan Chen-Lopes (`@LBCron`)
 
 **Systems & Full-Stack Engineer** — TypeScript, Python, React / React Native, Compilers & Linux/Wayland Tooling.  
-📍 Grenoble, France · ✉️ **[ronan.chenlopes@gmail.com](mailto:ronan.chenlopes@gmail.com)**
+📍 Grenoble, France · ✉️ **[ronan.chenlopes@gmail.com](mailto:ronan.chenlopes@gmail.com)** · 💼 **[Upwork](https://www.upwork.com/freelancers/~0131dae36abcf59374)**
 
 ---
 
